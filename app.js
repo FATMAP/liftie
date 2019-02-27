@@ -55,6 +55,7 @@ app.loaders.register(require('./lib/loader'));
 
 app.plugins = plugins;
 app.plugins.register('lifts', require('./lib/lifts'));
+app.plugins.register('pistes', require('./lib/pistes'));
 app.plugins.register('opening', require('./lib/opening'));
 app.plugins.register('twitter', require('./lib/twitter'));
 app.plugins.register('weather', require('./lib/weather'));
