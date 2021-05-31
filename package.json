@@ -11,7 +11,7 @@
     "@pirxpilot/k": "^1.0.0",
     "@pirxpilot/swipe": "^2.0.2",
     "async": "~2",
-    "chart.js": "^1.0.2",
+    "chart.js": "^2.9.4",
     "component-cookie": "^1.1.2",
     "connect-cachify-static": "^1.5.1",
     "connect-gzip-static": "^2.1.1",
